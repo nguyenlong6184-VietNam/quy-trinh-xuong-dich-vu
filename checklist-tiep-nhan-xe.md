@@ -9,3 +9,6 @@
 ## 2. Phân luồng vào khoang (Đốc công / Điều phối)
 - [ ] Kiểm tra tình trạng trống của cầu nâng (cầu cắt kéo / cầu 2 trụ)
 - [ ] Xác nhận thời gian dự kiến giao xe
+## 3. Kiểm tra nhanh các chức năng cơ bản
+- [ ] Kiểm tra đèn chiếu sáng, đèn xi-nhan, đèn phanh
+- [ ] Kiểm tra gạt mưa, nước rửa kính, còi
